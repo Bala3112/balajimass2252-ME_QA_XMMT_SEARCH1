@@ -12,7 +12,10 @@ public class App {
 
         //TODO: call your test case functions one after other here
 
-        tests.testCase01();
+        tests.Testcase01();
+        tests.TestCase02();
+        tests.TestCase03();
+        tests.TestCase04();
 
         //END Tests
 
